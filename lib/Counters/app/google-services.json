@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472697851532",
+    "project_id": "profitera-b7bac",
+    "storage_bucket": "profitera-b7bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472697851532:android:c5feeb18092c32b2da75a9",
+        "android_client_info": {
+          "package_name": "com.sahir.profitera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472697851532-qqhljt30lcj3c20q7lfi2ncm2gd87bqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaXJYcrcjP1bB-L6wYJ6658bytDyCJ1JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472697851532-qqhljt30lcj3c20q7lfi2ncm2gd87bqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
